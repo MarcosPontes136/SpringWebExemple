@@ -29,9 +29,7 @@ Basta dar um reloader no projeto e acessar novamente http://localhost:8080/ e se
 <div align="center">
     <img src="/Document/Iniciando_Get_Resquest.png" border="0" width="700" height="400">
     <p>Tela principal</p>
-</div>
 <div align="center">
     <img src="/Document/capturas.png" border="0" width="700" height="400">
     <p>Tela principal</p>
-</div>
 </div>
