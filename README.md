@@ -25,11 +25,12 @@ http://localhost:8080/
 Com o andamento do projeto, após finalizar o StockQuotesApiApllication e QuoteRepoitory, podemos então gerar numeros aleatorios e capturar também. 
 <br>
 Basta dar um reloader no projeto e acessar novamente http://localhost:8080/ e selecionar o "GET Request":
-</br>
+</br><br></br>
 <div align="center">
     <img src="/Document/Iniciando_Get_Resquest.png" border="0" width="700" height="400">
-    <p>Tela principal</p>
+    <p>Tela Get Request</p>
+</div><br></br>    
 <div align="center">
     <img src="/Document/capturas.png" border="0" width="700" height="400">
-    <p>Tela principal</p>
+    <p>Resultados</p>
 </div>
